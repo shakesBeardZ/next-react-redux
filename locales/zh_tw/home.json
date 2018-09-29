@@ -1,0 +1,11 @@
+{
+  "title": "歡迎來到 next.js",
+  "description": "next.js 介紹",
+  "welcome": "歡迎來到 next.js",
+  "sample_test": "test words for en",
+  "sample_button": "fire in the wind for en",
+  "link": {
+    "gotoPage2": "Go to page 2",
+    "gotoPage3": "Go to page 3 (no hoc)"
+  }
+}
